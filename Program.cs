@@ -32,7 +32,7 @@ namespace Party_Bud_1._0
 
             Console.WriteLine("\nPick a mode\n1. Alias\n2. Question Game\n3. Turnament Manager\n4. Quit\n");
 
-            Console.Write(" > ");
+            Console.Write("> ");
             string userInput = Console.ReadLine();
 
             try
@@ -47,7 +47,7 @@ namespace Party_Bud_1._0
                         runQuestionGame();
                         break;
                     case 3:
-                        Console.WriteLine("Case 3");
+                        runTurnamentManager();
                         break;
                     case 4:
                         System.Environment.Exit(0);
@@ -104,7 +104,9 @@ namespace Party_Bud_1._0
 
         static void runTurnamentManager()
         {
-
+            TurnamentManager tm = new();
+            tm.setup();
+            tm.start();
         }
     }
 }

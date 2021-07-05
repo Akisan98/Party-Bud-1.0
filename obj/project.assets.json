@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Akisan\\source\\repos\\Party Bud 1.0\\Party Bud 1.0.csproj",
+      "projectUniqueName": "C:\\Users\\Akisan\\Documents\\GitHub\\Party-Bud-1.0\\Party Bud 1.0.csproj",
       "projectName": "Party Bud 1.0",
-      "projectPath": "C:\\Users\\Akisan\\source\\repos\\Party Bud 1.0\\Party Bud 1.0.csproj",
+      "projectPath": "C:\\Users\\Akisan\\Documents\\GitHub\\Party-Bud-1.0\\Party Bud 1.0.csproj",
       "packagesPath": "C:\\Users\\Akisan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akisan\\source\\repos\\Party Bud 1.0\\obj\\",
+      "outputPath": "C:\\Users\\Akisan\\Documents\\GitHub\\Party-Bud-1.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akisan\\AppData\\Roaming\\NuGet\\NuGet.Config",

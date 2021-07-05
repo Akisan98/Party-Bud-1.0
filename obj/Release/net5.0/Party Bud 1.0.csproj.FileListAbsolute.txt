@@ -13,3 +13,19 @@ C:\Users\Akisan\source\repos\Party Bud 1.0\obj\Release\net5.0\Party Bud 1.0.dll
 C:\Users\Akisan\source\repos\Party Bud 1.0\obj\Release\net5.0\ref\Party Bud 1.0.dll
 C:\Users\Akisan\source\repos\Party Bud 1.0\obj\Release\net5.0\Party Bud 1.0.pdb
 C:\Users\Akisan\source\repos\Party Bud 1.0\obj\Release\net5.0\Party Bud 1.0.genruntimeconfig.cache
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\bin\Release\net5.0\Party Bud 1.0.exe
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\bin\Release\net5.0\Party Bud 1.0.deps.json
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\bin\Release\net5.0\Party Bud 1.0.runtimeconfig.json
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\bin\Release\net5.0\Party Bud 1.0.runtimeconfig.dev.json
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\bin\Release\net5.0\Party Bud 1.0.dll
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\bin\Release\net5.0\ref\Party Bud 1.0.dll
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\bin\Release\net5.0\Party Bud 1.0.pdb
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.csproj.AssemblyReference.cache
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.AssemblyInfoInputs.cache
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.AssemblyInfo.cs
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.dll
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\ref\Party Bud 1.0.dll
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.pdb
+C:\Users\Akisan\Documents\GitHub\Party-Bud-1.0\obj\Release\net5.0\Party Bud 1.0.genruntimeconfig.cache
